@@ -31,4 +31,3 @@ function rolldice() {
 }
 
 createdots(dicefaces[0]);
-console.log(`dice: , ${dice}`);
